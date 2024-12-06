@@ -1,0 +1,88 @@
+{
+  "questions": [
+    {
+      "question": "What percentage of Earth's freshwater is accessible for human use?",
+      "options": ["1%", "10%", "50%"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which organ in the human body uses the most water to function properly?",
+      "options": ["Lungs", "Brain", "Liver"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the primary reason humans feel thirsty?",
+      "options": [
+        "Low blood sugar",
+        "A drop in blood volume or an increase in blood osmolality",
+        "Lack of sleep"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "If your body were a water park, where would most of the 'water rides' be located?",
+      "options": [
+        "Your brain (big splash zone 🧠💦)",
+        "Your muscles (water slide wonderland 💪🌊)",
+        "Your bones (surprise underground reservoir 🦴🚰)"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "If your blood were a delivery service, how does water act as the perfect delivery vehicle?",
+      "options": [
+        "By carrying nutrients and oxygen like a superhero courier 🚴‍♂️💧",
+        "By powering tiny water jet engines inside your veins 🚤",
+        "By building little bridges for nutrients to cross 🌉"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "If dehydration were a villain, what would its evil plan be?",
+      "options": [
+        "Stealing water from your brain and shrinking it like a raisin 😱",
+        "Sneaking salt into your bloodstream to throw off the balance 🧂",
+        "Blocking your cells’ doors so water can’t get in 🚪🚫"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "If you drank no water for 24 hours, which part of your body would send the first SOS signal?",
+      "options": [
+        "Your skin, turning into a dry desert 🌵",
+        "Your brain, slowing down like a laggy computer 🧠💤",
+        "Your stomach, making 'water, please!' growls 🍵"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What natural feature on Earth holds the most water?",
+      "options": ["Oceans", "Rivers", "Lakes"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Imagine water was a superhero in your body. Which superpower does it have?",
+      "options": [
+        "Healing injuries by speeding up cell regeneration 🦸‍♂️💧",
+        "Boosting brain power and keeping you alert 🧠⚡",
+        "Carrying messages between organs like a courier 🏃‍♀️💦"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "If you leave a faucet running while brushing your teeth for 2 minutes, how much water is wasted on average?",
+      "options": ["2-3 liters", "5-7 liters", "10-12 liters"],
+      "correctOption": 1,
+      "points": 10
+    }
+  ]
+}

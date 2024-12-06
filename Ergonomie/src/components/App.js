@@ -1,4 +1,3 @@
-import DateCounter from "./DateCounter";
 import Loader from "./Loader";
 import Error from "./Error";
 import Header from "./Header";
@@ -18,7 +17,7 @@ const initState = {
   answer: null,
   score: 0,
   highscore: 0,
-  timer: 600,
+  timer: 300,
 };
 function reducer(state, action) {
   if (action.prot === "questions")
